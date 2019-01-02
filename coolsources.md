@@ -3,3 +3,4 @@
 # paletton
 # creative tim
 # daneden animate.css
+# Don't Quit. If you feel like quitting read about the Imposters Syndrome
